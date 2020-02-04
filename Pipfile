@@ -10,6 +10,7 @@ pandas = "*"
 jupyter = "*"
 matplotlib = "*"
 numpy = "*"
+tqdm = "*"
 
 [requires]
 python_version = "3.6"
